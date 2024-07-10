@@ -1,0 +1,36 @@
+[
+  {
+    "package": "mclogit",
+    "url": "https://github.com/melff/mclogit",
+    "subdir": "pkg"
+  },
+  {
+    "package": "memisc",
+    "url": "https://github.com/melff/memisc",
+    "subdir": "pkg"
+  },
+  {
+    "package": "munfold",
+    "url": "https://github.com/melff/munfold",
+    "subdir": "pkg"
+  },
+  {
+    "package": "latpos",
+    "url": "https://github.com/melff/latpos",
+    "subdir": "pkg"
+  },
+  {
+    "package": "iimm",
+    "url": "https://github.com/melff/iimm"
+  },
+  {
+    "package": "EMfit",
+    "url": "https://github.com/melff/EMfit",
+    "subdir": "pkg"
+  },
+  {
+    "package": "mpred",
+    "url": "https://github.com/melff/mpred",
+    "subdir": "pkg"
+  }
+]
