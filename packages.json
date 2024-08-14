@@ -15,8 +15,8 @@
     "subdir": "pkg"
   },
   {
-    "package": "latpos",
-    "url": "https://github.com/melff/latpos",
+    "package": "RKernel",
+    "url": "https://github.com/melff/RKernel",
     "subdir": "pkg"
   },
   {
